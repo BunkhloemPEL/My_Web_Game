@@ -1,0 +1,13 @@
+Prize table :
+if spin = 1 cherry 
+	return 2 credit
+if spin = 2 cherries 
+	return 5 credit
+if spin = 3* 1bar or spin = 3 cherries 
+	return 10 credit
+if spin = 3* 2bar 
+	return 25 credit
+if spin = 3* 3bar 
+	return 40 credit
+if spin = 3* Diamond 
+	return 200 credit
