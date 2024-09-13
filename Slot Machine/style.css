@@ -5,6 +5,7 @@
 
 .header{
     background-color: rgb(51, 0, 99);
+    color: white;
 }
 
 
@@ -18,8 +19,13 @@
     
 }
 
-.reel {
-    background-color: white;
-    height: 150px;
-    width: 100px;
+
+.spin_button {
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.footer{
+    background-color: blueviolet;
+    text-align: center;
 }
